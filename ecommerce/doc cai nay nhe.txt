@@ -1,0 +1,9 @@
+đặt tên database ecomm
+
+tài khoản admin hoang080699@gmail.com
+pass: admin
+tài khoản member chưa tạo 
+sửa các chữ còn lài tiếng anh sửa thành tiếng việt
+chức năng thánh toán giỏ hàng chưa làm
+
+nên xóa dữ liệu các bảng sp đã thanh toán trc vì cái đó đang bị lỗi nên phải viết lại cái đó
